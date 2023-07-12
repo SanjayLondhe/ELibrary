@@ -10,7 +10,7 @@ import java.util.List;
 import com.elibrary.beans.BookBean;
 import com.elibrary.beans.IssueBookBean;
 import com.elibrary.beans.LibrarianBean;
-
+//Book Dao for  database connection and crud operation 
 public class BookDao {
 
 	public static int save(BookBean bean){
